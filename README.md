@@ -14,7 +14,7 @@ Rode os comandos no seu terminal
     $ chmod +x sql sqlserver-container-install.sh
     $ ./sqlserver-container-install.sh
 
-## como Desinstalar
+## Como Desinstalar
 
     $ sqlserver-container-uninstall.sh
 
@@ -36,6 +36,6 @@ Turn the controls on your terminal
     $ chmod + x sql sqlserver-container-install.sh    
     $ ./sqlserver-container-install.sh
 
-## as Uninstall
+## How to Uninstall
 
     $ sqlserver-container-uninstall.sh
