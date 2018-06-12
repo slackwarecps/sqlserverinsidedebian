@@ -17,3 +17,24 @@ Rode os comandos no seu terminal
 ## como Desinstalar
 
     $ sqlserver-container-uninstall.sh
+
+    
+# sqlserverinsidedebian
+Sql server running inside the Debian Strech
+
+## requirements
+     Have Docker installed and running
+
+## How to install
+
+Turn the controls on your terminal
+
+     $ cd ~
+     $ git clone https://github.com/slackwarecps/sqlserverinsidedebian.git
+     $ cd sqlserverinsidedebian
+     $ chmod + x sql sqlserver-container-install.sh
+     $ ./sqlserver-container-install.sh
+
+## as Uninstall
+
+     $ sqlserver-container-uninstall.sh
