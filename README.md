@@ -1,10 +1,10 @@
 # sqlserverinsidedebian
 Sql server running inside the Debian Strech
 
-#requisitos
+## requisitos
     Ter o Docker instalado e rodando
 
-#Como instalar 
+## Como instalar 
 
 Rode os comandos no seu terminal
 
@@ -14,5 +14,6 @@ Rode os comandos no seu terminal
     $ chmod +x sql sqlserver-container-install.sh
     $ ./sqlserver-container-install.sh
 
-#como Desinstalar
+## como Desinstalar
+
     $ sqlserver-container-uninstall.sh
