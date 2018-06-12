@@ -19,7 +19,7 @@ Rode os comandos no seu terminal
     $ sqlserver-container-uninstall.sh
 
     
-# sqlserverinsidedebian
+# English Instructions
 Sql server running inside the Debian Strech
 
 ## requirements
